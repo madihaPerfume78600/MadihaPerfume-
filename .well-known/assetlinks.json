@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "MadihaPerfumeapk.com",
+      "sha256_cert_fingerprints": [
+        "41:04:9A:46:4E:EF:8B:AD:43:CE:3B:C8:30:69:91:DE:E0:4A:19:2C:FF:CA:6D:A5:3D:42:48:78:EC:7A:77:85"
+      ]
+    }
+  }
+]
